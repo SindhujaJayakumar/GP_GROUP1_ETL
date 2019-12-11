@@ -1,4 +1,5 @@
 # NBA ETL
+AN Extract Transform Load project
 In this project we decided to pull datasets pertaining to sports that could analyze NBA teams’ salaries and stats from 2003 to 2017.  We wanted to determine if spending more money on salary made an impact on the team’s stats.
 
 ## Finding Data
